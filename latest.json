@@ -1,0 +1,11 @@
+{
+ "versionCode": 3,
+ "versionName": "1.2.0",
+ "sha256": "981fb31c620de3099ecb8a5035a6ad82edb3cf0f9ca31cf54eda8b2b1d6dcc76",
+ "apkUrl": "https://github.com/lida0407/pixel-live-translate-releases/releases/download/v1.2.0/pixel-live-translate-1.2.0.apk",
+ "notes": {
+  "zh": "情景课：说中文时会教你用目标语言怎么说，并跟读打分；角色按课程步骤推进；支持从 GitHub 自动更新。",
+  "en": "Lesson calls: speak your own language and the app teaches you how to say it, then scores your repeat; calls follow a step plan; self-update from GitHub."
+ },
+ "released": "2026-11-08T22:12"
+}
