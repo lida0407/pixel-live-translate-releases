@@ -1,0 +1,59 @@
+{
+ "schema": "p4b-lesson-catalog/1",
+ "updated": "2026-11-08T13:46",
+ "packs": [
+  {
+   "id": "en-for-zh",
+   "file": "packs/en-for-zh.json",
+   "version": 2,
+   "sha256": "012e09dcb834abb85a44cb7b1b33a52d8ce4ac431f1223a1e8399d3df413d3f9",
+   "target": "en",
+   "support": "zh",
+   "title": {
+    "zh": "英语情景通话",
+    "en": "English live calls"
+   },
+   "levels": [
+    "A1",
+    "A2"
+   ],
+   "units": 12,
+   "lessons": 48
+  },
+  {
+   "id": "pl-for-en",
+   "file": "packs/pl-for-en.json",
+   "version": 5,
+   "sha256": "ef96ce5d8e0840c94b1067d3b43bbda7a1a30096e649306554194ad1fc9b21a7",
+   "target": "pl",
+   "support": "en",
+   "title": {
+    "en": "Polish live calls"
+   },
+   "levels": [
+    "A1",
+    "A2"
+   ],
+   "units": 12,
+   "lessons": 48
+  },
+  {
+   "id": "pl-for-zh",
+   "file": "packs/pl-for-zh.json",
+   "version": 4,
+   "sha256": "812e432ec51a0f149579d8b6d6440136616c49a451b821669265bfe82f2995f2",
+   "target": "pl",
+   "support": "zh",
+   "title": {
+    "zh": "波兰语情景通话",
+    "en": "Polish live calls (Chinese support)"
+   },
+   "levels": [
+    "A1",
+    "A2"
+   ],
+   "units": 12,
+   "lessons": 48
+  }
+ ]
+}
